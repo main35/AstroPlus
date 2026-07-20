@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIDiffSettings">
+    <option name="showAIDiff" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3179672c-6731-4523-8143-7f7a8148e9f8" name="Changes" comment="add readme" />
+    <list default="true" id="3179672c-6731-4523-8143-7f7a8148e9f8" name="Changes" comment="add readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/PlanetsView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/PlanetsView.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="58" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,14 +42,77 @@
     &quot;assignee&quot;: &quot;asboy2035&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://asboy2035@github.com/asboy2035/AstroPlus.git&quot;,
-    &quot;accountId&quot;: &quot;3a099e4d-a960-4419-accc-5f28f60b6a13&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/main35/AstroPlus.git",
+    "accountId": "5db3f81a-86d7-49ba-bb45-7204c769975f"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="qL5rIolx" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000371534624" />
+      <entry key="MS500" value="1.0517611866901129" />
+      <entry key="S2" value="1.5071725855392404" />
+      <entry key="S5" value="2.2852389477837747" />
+      <entry key="S10" value="4.15686994113833" />
+      <entry key="S30" value="13.451048027860283" />
+      <entry key="S60" value="22.199375424909867" />
+      <entry key="M2" value="29.49558884889565" />
+      <entry key="M5" value="35.328590772731616" />
+      <entry key="M10" value="37.577617137410314" />
+      <entry key="M15" value="38.36513790655858" />
+      <entry key="M30" value="39.17242348250239" />
+      <entry key="H1" value="39.5836419306635" />
+      <entry key="H2" value="39.791174282621974" />
+      <entry key="H4" value="39.89542493873708" />
+      <entry key="D1" value="39.98254824969536" />
+      <entry key="W1" value="39.99750633940341" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8526351335147352" />
+      <entry key="MS500" value="1.0161163541818772" />
+      <entry key="S2" value="1.4888952104377822" />
+      <entry key="S5" value="2.2715483471275006" />
+      <entry key="S10" value="4.142030038714193" />
+      <entry key="S30" value="13.437013146684622" />
+      <entry key="S60" value="22.188811185147163" />
+      <entry key="M2" value="29.488902780514913" />
+      <entry key="M5" value="35.32547811670782" />
+      <entry key="M10" value="37.57597725206343" />
+      <entry key="M15" value="38.364025213507254" />
+      <entry key="M30" value="39.17185719160037" />
+      <entry key="H1" value="39.58335625577975" />
+      <entry key="H2" value="39.79103080732373" />
+      <entry key="H4" value="39.895353040931454" />
+      <entry key="D1" value="39.9825362444248" />
+      <entry key="W1" value="39.99750462381779" />
+    </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -51,10 +128,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ash/IdeaProjects/astro-plus/screenshots",
     "list.type.of.created.stylesheet": "Sass",
     "node.js.detected.package.eslint": "true",
@@ -67,7 +148,7 @@
     "npm.dev.executor": "Run",
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/ash/IdeaProjects/astro-plus/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/ash/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -116,8 +197,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
       </set>
     </attachedChunks>
   </component>
@@ -135,6 +215,7 @@
       <workItem from="1753720963184" duration="23000" />
       <workItem from="1753721025586" duration="190000" />
       <workItem from="1753721529222" duration="1664000" />
+      <workItem from="1784561195362" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="add data!">
       <option name="closed" value="true" />

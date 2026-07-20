@@ -1,4 +1,4 @@
-# [AstroPlus](https://astro.asboy2035.com)
+# [AstroPlus](https://astro.a35hie.me)
 ![Screenshot](/screenshots/Main-Screenshot.png)
 
 Brand-new astronomy app!

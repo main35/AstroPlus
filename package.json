@@ -1,12 +1,12 @@
 {
-  "name": "astro-plus",
+  "name": "@a35hie/astro-plus",
   "description": "App with all the planets!",
   "author": {
-    "url": "https://asboy2035.com/",
-    "email": "ash@asboy2035.com",
+    "url": "https://a35hie.me/",
+    "email": "ash@a35.dev",
     "name": "ash"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": false,
   "keywords": ["astronomy", "vue"],
   "type": "module",

@@ -23,7 +23,7 @@
         selected
       />
 
-      <a href="https://asboy2035.com">
+      <a href="https://a35hie.me">
         <SidebarItem
           title="Main Site"
           icon="solar:home-angle-line-duotone"
